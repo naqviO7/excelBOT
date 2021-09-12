@@ -1,6 +1,7 @@
 # excelBOT
-Python Excel Bot to perform automated excel tasks.\
-Basic Tasks which include merging columns, printing data and sorting etc...
+Python Excel Bot to perform automated excel tasks.
+Basic Tasks which include merging columns, printing data and sorting etc...\
+It was a freelancing task, so it contains only specific functions.
 
 # How the Bot Operates:
 1. Manually Do One Operation on user's choice\
